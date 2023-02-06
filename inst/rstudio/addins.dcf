@@ -1,0 +1,9 @@
+Name:Rcodex
+Description: Inserts R code at the cursor position.
+Binding: writeRcode
+Interactive: false
+
+Name:Rcodex Configuration
+Description: Choose the configuration.
+Binding: rcodexConf
+Interactive: true
