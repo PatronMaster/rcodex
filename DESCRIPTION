@@ -1,7 +1,7 @@
 Package: Rcodex
 Type: Package
 Title: Translate natural language to Rcode with Codex(OpenAI)
-Version: 0.1.0
+Version: 0.2.0
 Author: Hugo Amorim
 Maintainer: The package maintainer <hugo@protonmail.com>
 Description: Codex is a tool that allows users to write code in a natural language,
