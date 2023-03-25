@@ -1,6 +1,6 @@
 RCodex
 ================
-2023-02-06
+2023-03-25
 
 This package will use Models from OpenAI to create code for you.
 
@@ -50,6 +50,13 @@ shortcut.
 ![](images/image-1769903441.png)
 
 ![](images/image-2063514603.png)
+
+## Update
+Version 0.2
+
+New Models added: "gpt-4","gpt-4-32k","gpt-3.5-turbo-0301","gpt-3.5-turbo" 
+
+Option to choose another programming language than R for the output.
 
 ## FUNNY (I create this package because was feedback from CHAT GTP)
 
