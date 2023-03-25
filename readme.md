@@ -5,6 +5,8 @@ RCodex
 This package will use Models from OpenAI to create code for you.
 
 You just write the text and the code will appear.
+![rcodex2](https://user-images.githubusercontent.com/7825849/218260950-a388bb70-86ff-4d25-a5fd-56cba71e22e6.gif)
+
 
 ## Installation
 
